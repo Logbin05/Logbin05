@@ -116,12 +116,14 @@ I design and build:
 ### 🟢 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Logbin05&show_icons=true&theme=apprentice&hide_border=true&count_private=false)
 
-
 ### 🔥 GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=Logbin05&theme=apprentice&hide_border=true)
 
 ### 🧠 Top Languages
-![Top Languages](https://github-readme-stats-sigma.vercel.app/api/top-langs/?username=Logbin05&layout=compact&theme=apprentice&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Logbin05&theme=apprentice&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Logbin05&theme=apprentice&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
@@ -132,7 +134,19 @@ I design and build:
 ---
 
 <p align="center">
+Connect with me:  
+<a href="https://github.com/Logbin05" target="_blank">GitHub</a> • 
+<a href="https://www.linkedin.com/in/alexey/" target="_blank">LinkedIn</a> • 
+<a href="https://t.me/Logbin05" target="_blank">Telegram</a>
+</p>
+
+<p align="center">
+Made with ❤️ and ☕ by Alexey  
+</p>
+
+<p align="center">
 <a href="https://visitcount.itsvg.in">
 <img src="https://visitcount.itsvg.in/api?id=Logbin05&icon=2&color=3" />
 </a>
 </p>
+
