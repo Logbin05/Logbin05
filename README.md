@@ -114,15 +114,14 @@ I design and build:
 ## 📊 GitHub Analytics
 
 ### 🟢 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Logbin05&show_icons=true&theme=apprentice&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Logbin05&show_icons=true&theme=apprentice&hide_border=true&count_private=false)
+
 
 ### 🔥 GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=Logbin05&theme=apprentice&hide_border=true)
 
 ### 🧠 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Logbin05&layout=compact&theme=apprentice&hide_border=true)
-
-
+![Top Languages](https://github-readme-stats-sigma.vercel.app/api/top-langs/?username=Logbin05&layout=compact&theme=apprentice&hide_border=true)
 
 ---
 
