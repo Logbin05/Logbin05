@@ -136,17 +136,9 @@ I design and build:
 <p align="center">
 Connect with me:  
 <a href="https://github.com/Logbin05" target="_blank">GitHub</a> • 
-<a href="https://www.linkedin.com/in/alexey/" target="_blank">LinkedIn</a> • 
-<a href="https://t.me/Logbin05" target="_blank">Telegram</a>
 </p>
 
 <p align="center">
 Made with ❤️ and ☕ by Alexey  
-</p>
-
-<p align="center">
-<a href="https://visitcount.itsvg.in">
-<img src="https://visitcount.itsvg.in/api?id=Logbin05&icon=2&color=3" />
-</a>
 </p>
 
