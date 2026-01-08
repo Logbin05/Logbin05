@@ -8,6 +8,8 @@
 🦀 Rust • ⚡ Axum • ⚛️ React • 🧱 NestJS • 🖥 Avalonia • 🐘 PostgreSQL • 🔴 Redis
 </p>
 
+<img width="2000" height="2000" alt="octocat-1767851149543" src="https://github.com/user-attachments/assets/623de1ff-ebbc-44f7-8d38-49b56fbcfd83" />
+
 ---
 
 ## 👤 Profile
@@ -114,31 +116,28 @@ I design and build:
 ## 📊 GitHub Analytics
 
 ### 🟢 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Logbin05&show_icons=true&theme=apprentice&hide_border=true&count_private=false)
+![GitHub Stats](https://github-readme-stats-trinibs-projects.vercel.app/api?username=Logbin05&show_icons=true&theme=apprentice)[![GitHub Streak](https://streak-stats.demolab.com?user=Logbin05&theme=apprentice&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-### 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=Logbin05&theme=apprentice&hide_border=true)
-
-### 🧠 Top Languages
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Logbin05&theme=apprentice&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### 🧠 Top Languages & 🏆 GitHub Trophies
+![](https://github-readme-stats-trinibs-projects.vercel.app/api/top-langs?username=Logbin05&theme=apprentice&layout=compact&langs_count=6)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Logbin05&theme=apprentice&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy-trinibs-projects.vercel.app/?username=Logbin05&theme=apprentice&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,Followers,PullRequest)
+<br/>
+![](https://github-profile-trophy-trinibs-projects.vercel.app/?username=Logbin05&theme=apprentice&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Issues,Organizations,Stars)
 
 ---
 
-## 🏆 Achievements
+## ℹ️ Information
+  <p align="center">
+  Connect with me:  
+  <a href="https://github.com/Logbin05" target="_blank">GitHub</a> • 
+  </p>
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Logbin05&theme=apprentice&margin-w=4)
-
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="500">
+</div>
 
 <p align="center">
-Connect with me:  
-<a href="https://github.com/Logbin05" target="_blank">GitHub</a> • 
+Made with ❤️ and ☕ by Alexey
 </p>
-
-<p align="center">
-Made with ❤️ and ☕ by Alexey  
-</p>
-
