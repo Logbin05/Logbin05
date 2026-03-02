@@ -245,7 +245,7 @@ Work-in-progress bot project (Rust). Has a `Discord.sql` in repo — looks like 
 ## Metrics (optional, super clean)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Logbin05/Logbin05/master/github-metrics.svg" alt="metrics" />
+  <img src="https://raw.githubusercontent.com/Logbin05/Logbin05/main/github-metrics.svg" alt="metrics" />
 </div>
 
 ---
