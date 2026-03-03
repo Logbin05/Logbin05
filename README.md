@@ -25,7 +25,6 @@ High-performance backend • Systems • Web • Desktop • Cross-platform
 </div>
 
 ---
-
 ## Overview
 
 I build production-grade systems with a focus on:
