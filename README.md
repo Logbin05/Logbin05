@@ -1,7 +1,6 @@
 <div align="center">
 
 <h1>Alexey — Software Engineer</h1>
-
 <p>
 High-performance backend • Systems • Web • Desktop • Cross-platform
 </p>
