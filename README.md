@@ -206,7 +206,6 @@ Work-in-progress bot project.
 </div>
 
 ---
-
 ## Contact
 - GitHub: https://github.com/Logbin05
 
