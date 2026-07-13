@@ -1,214 +1,153 @@
 <div align="center">
 
-<h1>Alexey — Software Engineer</h1>
+<img src="hero-banner.svg" width="100%" alt="Alexey — Systems Programmer" />
+
+<br><br>
+
 <p>
-High-performance backend • Systems • Web • Desktop • Cross-platform
+  <a href="#-projects"><img src="https://img.shields.io/badge/VIEW_PROJECTS-35D6A4?style=for-the-badge&logoColor=0D1117" /></a>
+  <a href="https://github.com/Logbin05"><img src="https://img.shields.io/badge/GITHUB-22D3EE?style=for-the-badge&logoColor=0D1117" /></a>
+  <a href="#-contact"><img src="https://img.shields.io/badge/CONTACT-0D1117?style=for-the-badge&color=0D1117&labelColor=35D6A4" /></a>
 </p>
 
 <p>
-  <a href="https://github.com/Logbin05">
-    <img src="https://komarev.com/ghpvc/?username=Logbin05&style=for-the-badge&label=PROFILE+VIEWS&color=0ea5e9" />
-  </a>
-  <a href="https://github.com/Logbin05?tab=followers">
-    <img src="https://img.shields.io/github/followers/Logbin05?style=for-the-badge&label=FOLLOWERS&color=22c55e" />
-  </a>
-  <a href="https://github.com/Logbin05?tab=stars">
-    <img src="https://img.shields.io/github/stars/Logbin05?style=for-the-badge&label=STARS&color=f59e0b" />
-  </a>
-</p>
-
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2600&pause=700&center=true&vCenter=true&width=900&lines=Rust+%2F+Axum+%E2%80%A2+TypeScript+%2F+React+%E2%80%A2+C%23+%2F+Avalonia;Async+services+%E2%80%A2+Type-safe+APIs+%E2%80%A2+Clean+Architecture;PostgreSQL+%E2%80%A2+Redis+%E2%80%A2+Docker+%E2%80%A2+CI%2FCD+%E2%80%A2+Observability" />
+  <img src="https://komarev.com/ghpvc/?username=Logbin05&style=flat-square&label=VIEWS&color=35D6A4" />
+  <img src="https://img.shields.io/github/followers/Logbin05?style=flat-square&label=FOLLOWERS&color=22D3EE" />
+  <img src="https://img.shields.io/github/stars/Logbin05?style=flat-square&label=STARS&color=35D6A4" />
 </p>
 
 </div>
 
----
-## Overview
+<br>
 
-I build production-grade systems with a focus on:
-- **async & scalable backend services**
-- **predictable architecture** (clean, maintainable, testable)
-- **type-safe APIs and strong data layers**
-- **cross-platform delivery**: web + desktop (+ experiments with mobile)
+## // About
 
----
+- Backend engineer working close to the runtime — Rust, async, low-level networking
+- Building **Aegis**, a decentralized P2P messenger (libp2p, QUIC, Noise)
+- Building **VGP**, a desktop tool for managing proxy server configurations
+- Focused on predictable, testable, production-grade architecture
 
-## Stack
+<br>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=rust,ts,js,cs,react,nodejs,nestjs,postgres,mysql,redis,docker,nginx,linux,bash,git&perline=8" />
-</div>
-
----
-
-## Engineering Focus
+## // Highlights
 
 <table>
-  <tr>
-    <td valign="top" width="50%">
+<tr>
+<td width="33%" valign="top">
 
-### Backend / Systems
-- Async services, concurrency, performance
-- REST + WebSockets
-- Auth: JWT / PASETO
-- Event-driven mindset (Kafka when needed)
+**⚙ Zero-cost abstractions**
+Rust ownership model — performance without a garbage collector
 
-### Data
-- PostgreSQL / MySQL / MS SQL Server
-- Redis (cache/sessions/pub-sub)
-- Drizzle ORM / EF Core
+</td>
+<td width="33%" valign="top">
 
-    </td>
-    <td valign="top" width="50%">
+**🔐 Applied cryptography**
+Noise protocol, E2E encryption, PASETO auth
 
-### Product / UI
-- React + Vite, typed forms + validation
-- Desktop: Avalonia + ReactiveUI (MVVM)
-- Tauri desktop experiments (Rust + React)
+</td>
+<td width="33%" valign="top">
 
-### Delivery
-- Dockerized environments
-- Reverse proxy (Nginx)
-- CI/CD foundations
+**🌐 Decentralized by design**
+P2P architecture, no single point of failure
 
-    </td>
-  </tr>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+**⚡ Async at the core**
+Tokio runtime, concurrent by default
+
+</td>
+<td width="33%" valign="top">
+
+**🧩 Type-safe everywhere**
+Strong contracts across the whole stack
+
+</td>
+<td width="33%" valign="top">
+
+**🖥 True cross-platform**
+Web + desktop via Tauri, single codebase
+
+</td>
+</tr>
 </table>
 
----
+<br>
 
-## Featured Projects
-
-<table>
-  <tr>
-    <td valign="top" width="50%">
-
-### Unicron
-Multi-client ecosystem: **DesktopClient / MobileClient / WebClient / Server**.
-
-**Repo**
-- https://github.com/Logbin05/Unicron
-
-    </td>
-    <td valign="top" width="50%">
-
-### MeSync
-Telegram personal assistant bot.
-
-**Repo**
-- https://github.com/Logbin05/MeSync
-
-    </td>
-  </tr>
-
-  <tr>
-    <td valign="top" width="50%">
-
-### CLI-Unicron-VPN-Proxy
-CLI tool that stores connection history **encrypted** and prints full paths.
-
-**Repo**
-- https://github.com/Logbin05/CLI-Unicron-VPN-Proxy
-
-    </td>
-    <td valign="top" width="50%">
-
-### ArchiveTool
-Archiving tool that can build a **self-extracting SFX**.
-
-**Repo**
-- https://github.com/Logbin05/ArchiveTool
-
-    </td>
-  </tr>
-
-  <tr>
-    <td valign="top" width="50%">
-
-### Union-Todo-android
-Todo app built with **Tauri + React + TypeScript**.
-
-**Repo**
-- https://github.com/Logbin05/Union-Todo-android
-
-    </td>
-    <td valign="top" width="50%">
-
-### TaskBot
-Work-in-progress bot project.
-
-**Repo**
-- https://github.com/Logbin05/TaskBot
-
-    </td>
-  </tr>
-</table>
-
----
-
-## GitHub Analytics
+## // Stack
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats-trinibs-projects.vercel.app/api?username=Logbin05&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&cache_seconds=86400" />
-  <img height="170" src="https://streak-stats.demolab.com?user=Logbin05&hide_border=true&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=rust,ts,js,cs,react,nodejs,nestjs,postgres,mysql,redis,docker,nginx,linux,bash,git&perline=8&theme=dark" />
+</div>
+
+<br>
+
+## // Architecture
+
+```
+L4  delivery     docker · nginx · ci/cd
+L3  client       react/vite · avalonia+reactiveui · tauri
+L2  service      axum · rest/ws · jwt/paseto · kafka
+L1  data         postgresql · mysql · mssql · redis
+L0  runtime      rust · tokio · linux
+```
+
+<br>
+
+## // Projects
+
+| Project | Description | Repo |
+|---|---|---|
+| **Unicron** | Multi-client ecosystem — Desktop / Mobile / Web / Server | [→](https://github.com/Logbin05/Unicron) |
+| **MeSync** | Telegram personal assistant bot | [→](https://github.com/Logbin05/MeSync) |
+| **CLI-Unicron-VPN-Proxy** | CLI tool, encrypted connection history, full path tracing | [→](https://github.com/Logbin05/CLI-Unicron-VPN-Proxy) |
+| **ArchiveTool** | Archiving tool, builds self-extracting SFX | [→](https://github.com/Logbin05/ArchiveTool) |
+| **Union-Todo-android** | Todo app — Tauri + React + TypeScript | [→](https://github.com/Logbin05/Union-Todo-android) |
+| **TaskBot** | Bot project, in progress | [→](https://github.com/Logbin05/TaskBot) |
+
+<br>
+
+## // Metrics
+
+<div align="center">
+  <img height="150" src="https://github-readme-stats-trinibs-projects.vercel.app/api?username=Logbin05&show_icons=true&hide_border=true&rank_icon=github&cache_seconds=86400&bg_color=0D1117&title_color=35D6A4&icon_color=22D3EE&text_color=C9D1D9&border_color=22D3EE" />
+  <img height="150" src="https://streak-stats.demolab.com?user=Logbin05&hide_border=true&background=0D1117&stroke=22D3EE&ring=35D6A4&fire=22D3EE&currStreakLabel=35D6A4&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6E7681" />
 </div>
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats-trinibs-projects.vercel.app/api/top-langs?username=Logbin05&layout=compact&langs_count=10&hide_border=true&theme=tokyonight&cache_seconds=86400" />
+  <img height="150" src="https://github-readme-stats-trinibs-projects.vercel.app/api/top-langs?username=Logbin05&layout=compact&langs_count=8&hide_border=true&cache_seconds=86400&bg_color=0D1117&title_color=35D6A4&text_color=C9D1D9&border_color=22D3EE" />
+  <img height="150" src="https://github-readme-activity-graph.vercel.app/graph?username=Logbin05&hide_border=true&bg_color=0D1117&color=22D3EE&line=35D6A4&point=22D3EE&area_color=35D6A4&area=true&height=150" />
+</div>
+
+<br>
+
+## // Repositories
+
+<div align="center">
+  <img height="120" src="https://github-readme-stats-trinibs-projects.vercel.app/api/pin/?username=Logbin05&repo=Unicron&hide_border=true&cache_seconds=86400&bg_color=0D1117&title_color=35D6A4&icon_color=22D3EE&text_color=C9D1D9&border_color=22D3EE" />
+  <img height="120" src="https://github-readme-stats-trinibs-projects.vercel.app/api/pin/?username=Logbin05&repo=MeSync&hide_border=true&cache_seconds=86400&bg_color=0D1117&title_color=35D6A4&icon_color=22D3EE&text_color=C9D1D9&border_color=22D3EE" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Logbin05&theme=tokyo-night&hide_border=true" />
-</div>
-
----
-
-## Repo Cards
-
-<div align="center">
-  <img height="120" src="https://github-readme-stats-trinibs-projects.vercel.app/api/pin/?username=Logbin05&repo=Unicron&hide_border=true&theme=tokyonight&cache_seconds=86400" />
-  <img height="120" src="https://github-readme-stats-trinibs-projects.vercel.app/api/pin/?username=Logbin05&repo=MeSync&hide_border=true&theme=tokyonight&cache_seconds=86400" />
+  <img height="120" src="https://github-readme-stats-trinibs-projects.vercel.app/api/pin/?username=Logbin05&repo=CLI-Unicron-VPN-Proxy&hide_border=true&cache_seconds=86400&bg_color=0D1117&title_color=35D6A4&icon_color=22D3EE&text_color=C9D1D9&border_color=22D3EE" />
+  <img height="120" src="https://github-readme-stats-trinibs-projects.vercel.app/api/pin/?username=Logbin05&repo=ArchiveTool&hide_border=true&cache_seconds=86400&bg_color=0D1117&title_color=35D6A4&icon_color=22D3EE&text_color=C9D1D9&border_color=22D3EE" />
 </div>
 
 <div align="center">
-  <img height="120" src="https://github-readme-stats-trinibs-projects.vercel.app/api/pin/?username=Logbin05&repo=CLI-Unicron-VPN-Proxy&hide_border=true&theme=tokyonight&cache_seconds=86400" />
-  <img height="120" src="https://github-readme-stats-trinibs-projects.vercel.app/api/pin/?username=Logbin05&repo=ArchiveTool&hide_border=true&theme=tokyonight&cache_seconds=86400" />
+  <img height="120" src="https://github-readme-stats-trinibs-projects.vercel.app/api/pin/?username=Logbin05&repo=Union-Todo-android&hide_border=true&cache_seconds=86400&bg_color=0D1117&title_color=35D6A4&icon_color=22D3EE&text_color=C9D1D9&border_color=22D3EE" />
+  <img height="120" src="https://github-readme-stats-trinibs-projects.vercel.app/api/pin/?username=Logbin05&repo=TaskBot&hide_border=true&cache_seconds=86400&bg_color=0D1117&title_color=35D6A4&icon_color=22D3EE&text_color=C9D1D9&border_color=22D3EE" />
 </div>
 
-<div align="center">
-  <img height="120" src="https://github-readme-stats-trinibs-projects.vercel.app/api/pin/?username=Logbin05&repo=Union-Todo-android&hide_border=true&theme=tokyonight&cache_seconds=86400" />
-  <img height="120" src="https://github-readme-stats-trinibs-projects.vercel.app/api/pin/?username=Logbin05&repo=TaskBot&hide_border=true&theme=tokyonight&cache_seconds=86400" />
-</div>
+<br>
 
----
-
-## Trophies
+## // Contact
 
 <div align="center">
-  <img src="https://github-profile-trophy-trinibs-projects.vercel.app/?username=Logbin05&theme=onedark&no-bg=true&no-frame=true&row=1&column=6&margin-w=10&margin-h=10&title=Commits,Repositories,Stars,Followers,PullRequest,MultiLanguage" alt="trophies" />
-</div>
 
----
+[GitHub](https://github.com/Logbin05)
 
-## Snake
+<sub>01001111 01001110 01001100 01001001 01001110 01000101</sub>
 
-<div align="center">
-  <img src="https://github.com/Logbin05/Logbin05/blob/output/snake.svg?raw=1" alt="snake" />
-</div>
-
----
-
-## Metrics
-
-<div align="center">
-  <img src="https://github.com/Logbin05/Logbin05/blob/HEAD/github-metrics.svg?raw=1" alt="metrics" />
-</div>
-
----
-## Contact
-- GitHub: https://github.com/Logbin05
-
-<div align="center">
-  <sub>Made by Alexey</sub>
 </div>
